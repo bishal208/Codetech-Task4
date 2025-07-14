@@ -33,10 +33,10 @@ The objective of this project is to optimize [briefly describe the business prob
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
- # Install dependencies:
+ ### Install dependencies:
      pip install -r requirements.txt
 
- # Open and run the Jupyter notebook:
+ ### Open and run the Jupyter notebook:
      jupyter notebook business_optimization.ipynb
 
  ## Output 
